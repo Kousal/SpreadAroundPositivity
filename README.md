@@ -1,0 +1,2 @@
+# SpreadAroundPositivity
+Socializing app
