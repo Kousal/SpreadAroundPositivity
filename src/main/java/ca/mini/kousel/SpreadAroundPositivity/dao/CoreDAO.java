@@ -1,10 +1,10 @@
 package ca.mini.kousel.SpreadAroundPositivity.dao;
 
-import javax.transaction.Transactional;
 import ca.mini.kousel.SpreadAroundPositivity.entity.*;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
+import org.springframework.transaction.annotation.Transactional;
 
 @Repository
 @Transactional
